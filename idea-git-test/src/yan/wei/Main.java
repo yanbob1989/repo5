@@ -11,4 +11,7 @@ public class Main {
         System.out.println("3424234234");
         System.out.println("3424234234");
     }
+    public void show(){
+
+    }
 }
