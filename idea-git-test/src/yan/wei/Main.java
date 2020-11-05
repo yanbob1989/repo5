@@ -10,6 +10,9 @@ public class Main {
         System.out.println("3424234234");
         System.out.println("3424234234");
         System.out.println("3424234234");
+        System.out.println("3424234234");
+        System.out.println("3424234234");
+        System.out.println("1111111");
     }
     public void show(){
 
