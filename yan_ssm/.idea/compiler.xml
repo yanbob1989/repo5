@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yan_util" />
+        <module name="yan_web" />
+        <module name="yan_service" />
+        <module name="yan_dao" />
+        <module name="yan_pojo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
